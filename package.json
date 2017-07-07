@@ -1,0 +1,13 @@
+{
+  "name": "@rispa/render-simple",
+  "version": "0.1.0",
+  "description": "Render for rispa which only serve static files",
+  "main": "index.js",
+  "repository": "https://github.com/rispa-io/rispa-render-simple",
+  "author": "Maxim Samoilov <nitive@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@rispa/core": "^2.0.1",
+    "@rispa/server": "^2.0.1"
+  }
+}
