@@ -1,9 +1,8 @@
 import { init } from '@rispa/core/events'
 import { server } from '@rispa/server/events'
-import render from './render'
+import render from '../src/render'
 
 const activator = on => {
-  console.log('activator')
   on(init(server), registry => {
     registry.set('render', render)
   })
