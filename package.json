@@ -8,6 +8,9 @@
   "license": "MIT",
   "dependencies": {
     "@rispa/core": "^2.0.1",
-    "@rispa/server": "^2.0.1"
+    "@rispa/server": "^2.0.1",
+    "@webpack-blocks/webpack2": "^0.4.0",
+    "ramda": "^0.24.1",
+    "stats-webpack-plugin": "^0.6.1"
   }
 }
