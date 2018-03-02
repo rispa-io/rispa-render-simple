@@ -7,10 +7,10 @@
   "author": "Maxim Samoilov <nitive@icloud.com>",
   "license": "MIT",
   "dependencies": {
-    "@rispa/core": "^2.0.1",
-    "@rispa/server": "^2.0.1",
+    "@rispa/core": "^4.2.1",
+    "@rispa/server": "^4.2.1",
     "@webpack-blocks/webpack2": "^0.4.0",
-    "ramda": "^0.24.1",
+    "ramda": "^0.25.0",
     "stats-webpack-plugin": "^0.6.1"
   }
 }
